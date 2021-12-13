@@ -1,4 +1,5 @@
 {
+  "fork": false,
   "upstream": "backport-org/repo-with-different-commit-paths",
   "targetBranchChoices": [
     "6.0",
